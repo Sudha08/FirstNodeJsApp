@@ -1,0 +1,30 @@
+General Info.
+-------------------------------------------
+MVC Architecture
+-------------------------------------------
+
+                    ______________________
+                   |                      |
+                   |    Controller        |
+                   |______________________|
+                      Controls the App.
+                      Sections
+                      eg: Todo Controller,
+                          User Controller
+                               |
+                               |
+                               |
+                               |                              
+             -----------------------------------
+            |                                   |
+            |                                   |
+            |                                   |
+            |                                   |
+         __________                           _________
+        |          |                         |         |
+        |   Model  |                         |  View   |
+        |__________|                         |_________|
+          DATA                                 Template Files (EJS)
+         eg: Todos,                             eg: Todo.ejs,
+            Users                                   Accounts.ejs
+    

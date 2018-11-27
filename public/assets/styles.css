@@ -64,7 +64,9 @@ li:hover{
 }
 
 h1{
-    background: url(/logo.png) no-repeat center;
+    background: url(/assets/logo.png) no-repeat center;
+    height: 200px;
+    width:100%;
     margin-bottom: 0;
     text-indent: -10000px;
 }
