@@ -29,4 +29,11 @@ General Info.
           DATA                                 Template Files (EJS)
          eg: Todos,                             eg: Todo.ejs,
             Users                                   Accounts.ejs
+
+------------------------------------------------------------------------------------------------------
+
+Download jQuery CDN from : https://code.jquery.com/
+                           Choose the latest slim version
+------------------------------------------------------------------------------------------------------
+
     
