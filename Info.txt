@@ -36,4 +36,14 @@ Download jQuery CDN from : https://code.jquery.com/
                            Choose the latest slim version
 ------------------------------------------------------------------------------------------------------
 
-    
+No SQL Databases
+------------------
+- Alternate to SQL databases
+- Store documents(JSON) in a db, instead of tables with rows and columns
+- Works really well with javascript (and therefore Node.js)
+------------------------------------------------------------------------------------------------------
+
+Use a hosted version of MongoDB - https://mlab.com - create an account
+
+------------------------------------------------------------------------------------------------------
+
